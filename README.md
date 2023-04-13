@@ -1,7 +1,7 @@
 # Cardamine-dispersal
 Evolutionary history and intraspecific competition mediate ballistic seed dispersal
 
-Journal of Functional Ecology, 2023.
+Journal of Functional Ecology (FE), 2023.
 
 Keywords:
 Intraspecific variation; Cardamine hirsuta; Long distance dispersal;
